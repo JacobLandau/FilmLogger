@@ -1,0 +1,4 @@
+omdb==0.7.0
+requests==2.12.3
+Pillow==3.4.2
+PyYAML==3.12
